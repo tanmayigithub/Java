@@ -2,7 +2,7 @@
 class B
 {
 	int a;
-	void getdata(int x) { a = x; }
+	void getdata(int x) { a = x; } 
 	void printdata() { System.out.println("a=" + a); }
 	
 }
